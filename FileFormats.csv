@@ -7,9 +7,13 @@ EPS     ,Encapsulate postscript
 EPUB    ,Electronic publication
 EXE     ,Executable program
 GIF		,Graphics interchange format
+JAR   ,Java ARchive
 JPEG	,Joint photographic experts group
 MIDI    ,Musical instrument digital interface
 MPEG    ,Moving picture experts group
+ODP     ,OpenDocument Presentation
+ODS     ,OpenDocument SpreadSheet
+ODT     ,OpenDocument Text
 PDF     ,Portable Document Format
 PNG		,Portable network graphics
 PS      ,Postscript
