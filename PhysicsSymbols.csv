@@ -16,6 +16,7 @@
     e   ,electron
     E   ,energy 
     E   ,electric field 
+    emf ,electromotive force
     F   ,force 
     f   ,frequency
     f   ,fermion
@@ -57,6 +58,7 @@
     S   ,action 
     S   ,entropy 
     S   ,Poynting vector
+    smv ,sähkömotorinen voima
     t   ,time 
     t   ,top quark
     T   ,temperature
